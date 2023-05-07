@@ -27,15 +27,7 @@
                     RELEASE DATE
                     </small>
                 </p>
-            </th>
-            <th align="center">
-                <img width="201" height="1">
-                <p align="center"> 
-                    <small>
-                    PREVIEW
-                    </small>
-                </p>
-            </th>
+            </th>             
         </tr>
     </thead>
     <tbody>
@@ -49,8 +41,7 @@
         <tr>
             <td>02</td>
             <td><a href="02">Product Card</a></td>
-            <td>18/01/23</td>          
-            
+            <td>18/01/23</td> 
         </tr>
      <!--    <tr>
             <td>03</td>
